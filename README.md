@@ -8,4 +8,7 @@ MODULOS
 - 6- Python
 - 7- SQL
 - 8- HTML, CSS e JavaScript
-- 9- Flask
+- 9- Flask (em processo)
+
+# Aviso
+O arquivo .db da pasta movies no modulo 7 ultrapassa os 25MB por isso não pude coloca-lo.
